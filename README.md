@@ -23,5 +23,7 @@ else raining
  weather is a very cold 
 
  the purpose of the app is to give weather condition to usersdaily and give a weekly average 
+
+ https://github.com/Olwethu-Thando/practicum-exam-
  
 
