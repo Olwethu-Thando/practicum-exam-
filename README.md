@@ -20,5 +20,8 @@ else raining
 
 
  app purpose 
- weather is a very d
+ weather is a very cold 
+
+ the purpose of the app is to give weather condition to usersdaily and give a weekly average 
+ 
 
